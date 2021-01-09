@@ -13,7 +13,9 @@ Smiley riding a city bus.  In a city like Flint Michigan that is suffering from 
 1.  Ensure that all of the dog's bowls are made of glass.
 1.  Fill the bowls with different kinds of water, including tap and bottled water.  Also fill a bowl with whole milk (Michigan PBB milk contamination incident) and more glass bowls with dog (dry and wet) and human food.
 
-[![imgs/20201229_161510_HDR.jpg](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201229_161510_HDR.jpg)](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201229_161510_HDR.jpg)
+[![imgs/20201229_161510_HDR.jpg](https://github.com/serviceanimals/Smiley/raw/master/imgs/20201229_161510_HDR.jpg)](https://github.com/serviceanimals/Smiley/raw/master/imgs/20201229_161510_HDR.jpg)
+
+![imgs/20201229_161510_HDR.jpg](https://github.com/serviceanimals/Smiley/raw/master/imgs/20201229_161510_HDR.jpg)
 
 Beautiful light blue grey and white puppy, service animal Smiley eating a meal on December 29 2020 at 1229.
 
