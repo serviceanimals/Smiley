@@ -1,6 +1,6 @@
 <link rel="prerender" href="https://serviceanimals.github.io/Smiley/">
 
-# [serviceanimals/](https://github.com/serviceanimals/serviceanimals.github.io)[Smiley](https://serviceanimals.github.io/Smiley/)
+# [serviceanimals/](https://serviceanimals.github.io)[Smiley](https://serviceanimals.github.io/Smiley/)
 
 [![imgs/gifs/20201209_130438.gif](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201209_130438.gif)](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201209_130438.gif)
 
