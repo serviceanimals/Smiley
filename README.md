@@ -9,7 +9,6 @@ My personal [water quality specialist](WQS.md) (water offered by me; distilled, 
 [![20201229_161510_HDR.jpg](https://github.com/serviceanimals/Smiley/raw/master/20201229_161510_HDR.jpg)](https://github.com/serviceanimals/Smiley/raw/master/20201229_161510_HDR.jpg)
 
 ![Service Animal Smiley](imgs/20201229_161510_HDR.jpg)
-![Service Animal Smiley](imgs/20201229_161510_HDR.jpg)
 
 [![imgs/gifs/20201112_1035.gif](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201112_1035.gif)](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201112_1035.gif)
 
