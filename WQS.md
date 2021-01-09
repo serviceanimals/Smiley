@@ -23,8 +23,12 @@ Smiley and his canine companion [Harper](https://serviceanimals.github.io/Harper
 
 [![Smiley snacking on November 12 2020 at 033144](https://github.com/serviceanimals/Smiley/raw/master/vids/20201112_033144.mp4)](https://github.com/serviceanimals/Smiley/raw/master/vids/20201112_033144.mp4)
 
-<!-- [Issues at this repository](https://github.com/serviceanimals/Smiley/issues)
+<video src = "https://github.com/serviceanimals/Smiley/raw/master/vids/20201112_033144.mp4" controls> Your browser does not support embedded video through HTML5.  </video>
+
+<video src = "vids/20201112_033144.mp4" controls> Your browser does not support embedded video through HTML5.  </video>
+
+[Issues at this repository](https://github.com/serviceanimals/Smiley/issues)
 
 [Pulls at this repository](https://github.com/serviceanimals/Smiley/pulls)
 
-Smiley README.md EOF -->
+<!-- Smiley WQS.md EOF -->
