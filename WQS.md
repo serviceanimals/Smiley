@@ -21,7 +21,7 @@ A beautiful light blue grey and white puppy, service animal Smiley eating a meal
 
 Smiley and his canine companion [Harper](https://serviceanimals.github.io/Harper/) on November 11th 2020 at 1035.
 
-[![vids/20201112_033144.mp4](https://github.com/serviceanimals/Smiley/raw/master/vids/20201112_033144.mp4)](https://github.com/serviceanimals/Smiley/raw/master/vids/20201112_033144.mp4)
+[![Smiley snacking on November 12 2020 at 033144](https://github.com/serviceanimals/Smiley/raw/master/vids/20201112_033144.mp4)](https://github.com/serviceanimals/Smiley/raw/master/vids/20201112_033144.mp4)
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Smiley/issues)
 
