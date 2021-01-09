@@ -8,6 +8,8 @@ My personal [water quality specialist](https://serviceanimals.github.io/Smiley/W
 
 [![imgs/gifs/20201112_1035.gif](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201112_1035.gif)](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201112_1035.gif)
 
+Smiley and his canine companion [Harper](https://serviceanimals.github.io/Harper/) on November 11th 2020 at 1035.
+
 <!-- [Issues at this repository](https://github.com/serviceanimals/Smiley/issues)
 
 [Pulls at this repository](https://github.com/serviceanimals/Smiley/pulls)
