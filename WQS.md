@@ -15,7 +15,7 @@ Smiley riding a city bus.  In a city like Flint Michigan that is suffering from 
 
 [![imgs/gifs/20201209_130438.gif](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201209_130438.gif)](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201209_130438.gif)
 
-Smiley and his canine companion Smiley.
+Smiley and his canine companion [Harper](https://serviceanimals.github.io/Harper/).
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Smiley/issues)
 
