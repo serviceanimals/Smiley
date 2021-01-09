@@ -19,6 +19,8 @@ Beautiful light blue grey and white puppy, service animal Smiley eating a meal o
 
 [![imgs/gifs/20201209_130438.gif](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201209_130438.gif)](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201209_130438.gif)
 
+[![imgs/gifs/20201112_1035.gif](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201112_1035.gif)](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201112_1035.gif)
+
 Smiley and his canine companion [Harper](https://serviceanimals.github.io/Harper/).
 
 <!-- [Issues at this repository](https://github.com/serviceanimals/Smiley/issues)
