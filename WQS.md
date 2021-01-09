@@ -17,8 +17,6 @@ Smiley riding a city bus.  In a city like Flint Michigan that is suffering from 
 
 A beautiful light blue grey and white puppy, service animal Smiley eating a meal on December 29 2020 at 1229.
 
-[![imgs/gifs/20201209_130438.gif](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201209_130438.gif)](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201209_130438.gif)
-
 [![imgs/gifs/20201112_1035.gif](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201112_1035.gif)](https://github.com/serviceanimals/Smiley/raw/master/imgs/gifs/20201112_1035.gif)
 
 Smiley and his canine companion [Harper](https://serviceanimals.github.io/Harper/).
