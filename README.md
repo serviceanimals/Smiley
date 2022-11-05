@@ -18,5 +18,4 @@ Smiley and his canine companion [Harper](https://serviceanimals.github.io/Harper
 
 [Pull requests at this git repository](https://github.com/serviceanimals/Smiley/pulls)
 
-
 <!-- /serviceanimals/Smiley/README.md EOF -->
