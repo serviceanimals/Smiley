@@ -30,4 +30,4 @@ Smiley at work on December 31 2020 at 120243.
 
 [Pulls at this repository](https://github.com/serviceanimals/Smiley/pulls)
 
-<!-- Smiley WQS.md EOF -->
+<!-- /serviceanimals/Smiley/WQS.md EOF -->
