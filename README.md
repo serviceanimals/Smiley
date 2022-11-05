@@ -14,8 +14,8 @@ My personal [water quality specialist](https://serviceanimals.github.io/Smiley/W
 
 Smiley and his canine companion [Harper](https://serviceanimals.github.io/Harper/) on November 11th 2020 at 1035.
 
-[Issues at this repository](https://github.com/serviceanimals/Smiley/issues)
+[Issues at this git repository](https://github.com/serviceanimals/Smiley/issues)
 
-[Pulls at this repository](https://github.com/serviceanimals/Smiley/pulls)
+[Pulls requests at this git repository](https://github.com/serviceanimals/Smiley/pulls)
 
 <!-- Smiley README.md EOF -->
